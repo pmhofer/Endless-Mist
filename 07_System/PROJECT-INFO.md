@@ -5,7 +5,7 @@
 | Feld | Wert |
 |---|---|
 | Titel | Endless Mist (Arbeitstitel DE: *Nebelgänger*) |
-| Genre | Dark Fantasy Horror, Roguelike-Kern, LitRPG/GameLit (offen) |
+| Genre | Dark Fantasy, soulslike, ohne Zahlen (E3) · Ich-Perspektive (E4) |
 | Ton | Iron-Lung-Beklemmung, Winterkälte, Einsamkeit |
 | Ansatz | A: Mistwalker-Loop (E1) |
 | Kapitel | 24 (NovelOS-Standard, vorläufig) |

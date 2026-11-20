@@ -1,6 +1,6 @@
 # ENDLESS MIST — Lies das zuerst
 
-**Stand:** 2026-11-20 · **Phase:** 2A (Konzept) · **Ansatz:** A, der Mistwalker-Loop (E1)
+**Stand:** 2026-11-20 · **Phase:** 2A (Konzept) · **Ansatz:** A, der Mistwalker-Loop (E1) · soulslike, Ich-Perspektive, keine Zahlen (E3, E4)
 *Kurzes Dashboard. Bei Widerspruch gilt `ENTSCHEIDUNGEN.md`, danach `02_Konzept/Endless-Mist-Konzept.md`.*
 
 ## Worum es geht

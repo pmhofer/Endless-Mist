@@ -6,4 +6,5 @@
 - Iron-Lung-Prinzip (R6): Sicht von wenigen Metern. Bedrohung über Geräusch, Druck und Kälte, selten über das Auge.
 - Winter (R5): jede Szene körperlich kalt.
 - Sensorik-Hierarchie und Anti-KI-Prosa-Gesetze aus `AGENTS.md` §5 gelten ausnahmslos.
-- Bis LitRPG/GameLit entschieden ist: keine Systemmeldungen, keine Zahlen im Text.
+- Ich-Perspektive (E4). Kein Name für das Ich.
+- Soulslike, wild, sphärisch (E3): keine Zahlen, keine Systemmeldungen, keine Spielbegriffe. Fortschritt nur über Körper, Narben und gefundene Rüstung.

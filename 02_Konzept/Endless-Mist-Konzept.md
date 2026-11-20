@@ -22,7 +22,9 @@ Eine namenlose Seele, die nicht tot bleiben kann, wandert durch einen endlosen, 
 - **Iron Lung als Stimmungsvorlage:** Beklemmung durch Wahrnehmungsentzug. Man sieht fast nichts, man hört und spürt. Die Angst kommt aus dem, was knapp außerhalb der Sicht ist. (Nur Inspiration für das Gefühl, keine Übernahme von Setting oder Figuren.)
 - **Winter:** Nebel ist nass und kalt. Frost auf der Haut, Atem, der vor den Augen hängen bleibt, Finger, die nicht mehr greifen.
 - **Roguelike-Logik als Erzählform** (aus deinen Notizen zu Slay the Spire, Balatro, Vampire Survivors, Risk of Rain): Begegnungen sind zufällig. Was der Tod hinterlässt, bleibt (Narben). Alles andere ist weg.
-- **Form:** LitRPG oder GameLit, Entscheidung offen (siehe `00_Info/OFFENE-FRAGEN.md`).
+- **Form (E3):** dark und soulslike, wild und sphärisch. Keine Zahlen, keine Systemmeldungen. Das Spielgefühl kommt aus Begegnungen, Tod und gefundener Ausrüstung, nie aus Werten.
+- **Perspektive (E4):** Ich. Wir sind so blind im Nebel wie die Seele.
+- **Ausrüstung (E4):** Die Seele trägt, was sie bei sich hat, und findet unterwegs Rüstung: von Toten, aus Ruinen, aus dem Nebel. Wie in Souls-Spielen erzählt jedes Stück eine Geschichte, die niemand mehr kennt.
 
 ## 4. Figuren (Entwurf)
 ### Die Seele („Mistwalker“)
@@ -31,6 +33,7 @@ Eine namenlose Seele, die nicht tot bleiben kann, wandert durch einen endlosen, 
 - **Want:** eingelassen werden, irgendwo dazugehören.
 - **Need:** begreifen, dass ihr Wert keinen Zeugen braucht.
 - **Mechanik:** Tod → stärker (Narbe) + eine Erinnerung weniger. Die Narben sind ihr Gedächtnis aus Fleisch.
+- **Rüstung:** gefunden, nie geschenkt. Jedes Stück gehörte jemandem, der im Nebel verschwand.
 
 ### Mögliche Nebenfiguren (aus deinen Notizen)
 - **Die Wanderer mit Vorräten:** wenige, die zwischen den Türmen Vorräte bringen. Die einzigen, die die Seele wiedersehen könnten.

@@ -7,7 +7,7 @@
 |---|---|
 | Titel | Endless Mist (deutscher Arbeitstitel: *Nebelgänger*) |
 | Sprache | Deutsch |
-| Genre | Dark Fantasy Horror mit Roguelike-Kern, als LitRPG oder GameLit (offen). `genre-styles.yaml`: `dark_fantasy_horror`, Unterton `grimdark/psychological_grimdark` |
+| Genre | Dark Fantasy, soulslike: wild, sphärisch, ohne Zahlen (E3). `genre-styles.yaml`: `dark_fantasy_horror`, Unterton `grimdark/psychological_grimdark` |
 | **Aktiver Ansatz / Richtung** | A: Der Mistwalker-Loop (E1) |
 | Aktuelle Phase | 2A (Konzept) |
 | Zielwortzahl pro Kapitel | ca. 3.500 (vorläufig, offen) |
@@ -28,8 +28,8 @@
 | `07_System/CLAUDE.md` | Ton und Stilregeln für KI-Agenten |
 | `../../AGENTS.md` §5 | Anti-KI-Prosa-Gesetze |
 
-**Erzählperspektive:** offen (Vorschlag: personal, eng an der Seele, Präteritum)
-**Zeitform:** offen
+**Erzählperspektive:** Ich-Perspektive der Seele (E4)
+**Zeitform:** offen (Präsens würde die Iron-Lung-Unmittelbarkeit verstärken)
 
 ## 4. Harte Regeln (per Textsuche prüfbar)
 | # | Regel | Prüfung |
@@ -37,7 +37,7 @@
 | R1 | Die Seele hat keinen Namen. Nur andere nennen sie „Mistwalker“. | `grep -n "Mistwalker" 05_Kapitel/` nur in wörtlicher Rede |
 | R2 | Jeder Tod kostet eine Erinnerung und hinterlässt eine Narbe (einen dauerhaften Vorteil). Kein Tod ohne Preis. | Beat-Sheets: jeder Tod nennt Verlust + Narbe |
 | R3 | Niemand kehrt aus dem Nebel zurück. Ausnahmen nur per Entscheidung in `ENTSCHEIDUNGEN.md`. | Kanon-Check |
-| R4 | *Offen bis zur Entscheidung LitRPG/GameLit:* Bei GameLit keine Spielmechanik-Sprache in der Prosa (kein „Level“, „Perk“, „Run“). Bei LitRPG nur im festen Format der Systemmeldungen. | `grep -niE "level|perk|xp" 05_Kapitel/` |
+| R4 | Keine Zahlen, keine Systemmeldungen, keine Spielbegriffe (kein „Level“, „Perk“, „Run“, „XP“, „Loot“). Fortschritt zeigt sich nur am Körper, an Narben und an gefundener Rüstung (E3, E4). | `grep -niE "level|perk|xp|loot|skill" 05_Kapitel/` |
 | R5 | Kälte ist immer da. Keine Szene ohne körperliche Winterkälte (Atem, Finger, Frost, Feuchte). | Lektorat: Hemingway-Wetter-Check |
 | R6 | Iron-Lung-Prinzip: Die Seele sieht nie mehr als ein paar Meter. Was im Nebel ist, wird über Geräusch, Druck und Kälte erfahren, selten über das Auge. | Lektorat: Sensorik-Check |
 
