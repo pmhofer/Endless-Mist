@@ -11,7 +11,7 @@ Eine namenlose Seele, die nicht tot bleiben kann, wandert durch einen endlosen N
 |---|---|
 | `00_Info/` | Protokoll, offene Fragen, Pitch & Loglines |
 | `01_Rohmaterial/` | Deine Notion-Notizen, wörtlich, nie verändert |
-| `02_Konzept/` | Die Story-Bibel (`Endless-Mist-Konzept.md`) |
+| `02_Konzept/` | Story-Bibel: Konzept, Figuren, Welt, Trope-Vertrag, Zeitlinie |
 | `03_Outline/`, `04_Beats/` | 24-Kapitel-Raster (Entwurf), Beats noch leer |
 | `05_Kapitel/` | Das Manuskript (noch leer) |
 | `06_Analyse/` | Prüfberichte, erster Devil's-Advocate-Check |
@@ -19,6 +19,6 @@ Eine namenlose Seele, die nicht tot bleiben kann, wandert durch einen endlosen N
 | `99_Archiv/` | Die nicht gewählten Ansätze B und C |
 
 ## Nächste Schritte
-1. Pivot wählen (A: Erinnerung wandert zur Wanderin · B: Ich bin die Legende · A+B), siehe `06_Analyse/DEVILS-ADVOCATE-AUDIT.md` §5.
-2. Was ist der Nebel (E5)? Danach startet der Flow automatisch Phase 2B (`character-architect`, `worldbuilding-architect`, `trope-challenger`).
-3. Lieblings-Loglines in `00_Info/PITCH.md` markieren.
+1. Drei kurze Entscheidungen: Name der Wanderin (Vorschlag Ysa), erwacht er dort, wo er starb, gilt R3 nur abseits der Routen.
+2. Danach startet der Flow Phase 3–5 (`story-arc-architect`, `emotion-arc-architect`, `plot-architect`).
+3. Offen bleibt: Was ist der Nebel (E5)?

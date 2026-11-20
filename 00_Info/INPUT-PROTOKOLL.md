@@ -19,3 +19,6 @@
 ## 2026-11-20 · Story Kickoff Pass
 - Autor: „und dann dann "starte die story" bzw mach das richtige nach unserem plan“ → Freigabe für Kette 4 (Token-Alarm GELB, ≈ 24k Tokens gebündelt, Vorschau `00_Info/LAUF-VORSCHAU-2026-11-20-1.md`).
 - Autor: „ja das muss als automatismus hook whatever in novelOS rein und einfach anspringen und weiter gehen usw. das der schreiber nie das gefühlt hat zu hängen oder alleine zu sein ausser im stift-mode (fokus mode) bau das sofort rein das ist gold“ → Flow-Harness in NovelOS gebaut, dieses Projekt ist der erste Flow.
+
+## 2026-11-20 · Entscheidung nach Kickoff
+- Autor: „A+B, Nebel später, weiter“ → E7 Pivot A+B, E5 bleibt offen, Freigabe Phase 2B.

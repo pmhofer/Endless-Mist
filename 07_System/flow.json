@@ -1,11 +1,11 @@
 {
-  "kette": "kickoff",
-  "schritt": 5,
+  "kette": "phase-2b",
+  "schritt": 3,
   "aktiv": true,
   "wartet_auf_autor": true,
-  "frage": "Pivot A, B oder A+B? Und was ist der Nebel (E5)? Danach Phase 2B starten.",
+  "frage": "Name der Wanderin (Vorschlag Ysa)? Erwacht er dort, wo er starb? R3 gilt nur abseits der Routen (bestätigen)? Dann Folgekette struktur starten.",
   "auto_zaehler": 0,
-  "gestartet": "2026-11-20T17:29",
+  "gestartet": "2026-11-20T17:42",
   "stift": false,
   "verlauf": [
     "2026-11-20T17:29 · Kette kickoff gestartet (Freigabe des Autors)",
@@ -14,6 +14,11 @@
     "2026-11-20T17:29 · erledigt: writing-oracle (03_Outline/24-KAPITEL-RASTER.md)",
     "2026-11-20T17:29 · erledigt: blurb-forge (00_Info/PITCH.md)",
     "2026-11-20T17:29 · erledigt: novelos-timeline (02_Konzept/Zeitlinie.md)",
-    "2026-11-20T17:29 · wartet: Pivot A, B oder A+B? Und was ist der Nebel (E5)? Danach Phase 2B starten."
+    "2026-11-20T17:29 · wartet: Pivot A, B oder A+B? Und was ist der Nebel (E5)? Danach Phase 2B starten.",
+    "2026-11-20T17:42 · Kette phase-2b gestartet (Freigabe des Autors)",
+    "2026-11-20T17:44 · erledigt: character-architect (02_Konzept/Figuren.md)",
+    "2026-11-20T17:44 · erledigt: worldbuilding-architect (02_Konzept/Welt.md)",
+    "2026-11-20T17:44 · erledigt: trope-challenger (02_Konzept/Trope-Vertrag.md)",
+    "2026-11-20T17:44 · wartet: Name der Wanderin (Vorschlag Ysa)? Erwacht er dort, wo er starb? R3 gilt nur abseits der Routen (bestätigen)? Dann Folgekette struktur starten."
   ]
 }

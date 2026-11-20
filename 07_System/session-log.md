@@ -4,3 +4,7 @@
 - story-genesis: Struktur, Konzept, E1–E6
 - Kette 4: Devil's Advocate (OSI 6,7, Risiko Dark-Souls-Hollowing, Pivots A/B), 24-Kapitel-Raster, Pitch (20 Loglines, Klappentext), Zeitlinie
 - Flow-Harness aktiv, wartet auf: Pivot A/B und Nebel (E5)
+
+## 2026-11-20 · Phase 2B
+- E7 Pivot A+B. Figuren (Ich, Wanderin, Torhüterin, Hohler, Verstoßener), Welt (Türme über dem Nebel, Tod-Regeln, Rüstung, Begegnungen), Trope-Vertrag (OSI ≈ 7,2)
+- Flow wartet: Name der Wanderin, Erwachens-Regel, R3 abseits der Routen
