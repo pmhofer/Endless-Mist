@@ -19,6 +19,7 @@ Eine namenlose Seele, die nicht tot bleiben kann, wandert durch einen endlosen N
 | `99_Archiv/` | Die nicht gewählten Ansätze B und C |
 
 ## Nächste Schritte
-1. Drei kurze Entscheidungen: Name der Wanderin (Vorschlag Ysa), erwacht er dort, wo er starb, gilt R3 nur abseits der Routen.
-2. Danach startet der Flow Phase 3–5 (`story-arc-architect`, `emotion-arc-architect`, `plot-architect`).
-3. Offen bleibt: Was ist der Nebel (E5)?
+**Pausiert am 2026-11-20.** Übergabe: `00_Info/HANDOFF-2026-11-20.md`.
+1. Bei „weiter“ läuft die Kette `struktur` ab `story-arc-architect` (Raster auf E7–E10 nachziehen).
+2. Danach `emotion-arc-architect` und `plot-architect` (Beats Kapitel 1).
+3. Offen: Was ist der Nebel (E5)?

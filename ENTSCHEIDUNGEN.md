@@ -11,3 +11,6 @@
 | E5 | 2026-11-20 | Was der Nebel ist, wird später entschieden (Phase 2B, worldbuilding-architect). | Autor |
 | E6 | 2026-11-20 | Zeitform: Präsens. Ich-Erzähler im Jetzt („Ich gehe. Der Frost beißt.“), passend zur Iron-Lung-Unmittelbarkeit. | Autor: „präsens im jetzt oder?“ (Rückfrage, Empfehlung Präsens bestätigt) |
 | E7 | 2026-11-20 | Pivot A+B: (A) Was er im Tod vergisst, geht auf die Wanderin über; sie weiß am Ende, wer er war. (B) Die Turmgeschichten vom „Mistwalker“ handeln von seinen eigenen früheren Leben. | Autor: „A+B, Nebel später, weiter“ |
+| E8 | 2026-11-20 | Die Wanderin heißt **Ysa**. | Autor: „ok weiter?“ (Vorschlag übernommen) |
+| E9 | 2026-11-20 | Nach dem Tod erwacht er nach einer Nacht ungefähr dort, wo er starb, nie in einem Turm. | Autor: „ok weiter?“ (Vorschlag übernommen) |
+| E10 | 2026-11-20 | R3 („niemand kehrt zurück“) gilt für alle, die die markierten Routen verlassen oder verstoßen werden. Wanderer auf den Routen pendeln. | Autor: „ok weiter?“ (Vorschlag übernommen) |

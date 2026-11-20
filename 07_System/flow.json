@@ -1,11 +1,11 @@
 {
-  "kette": "phase-2b",
-  "schritt": 3,
+  "kette": "struktur",
+  "schritt": 0,
   "aktiv": true,
   "wartet_auf_autor": true,
-  "frage": "Name der Wanderin (Vorschlag Ysa)? Erwacht er dort, wo er starb? R3 gilt nur abseits der Routen (bestätigen)? Dann Folgekette struktur starten.",
+  "frage": "Handoff: Autor hat am 20.11. pausiert (Token-Budget). Bei „weiter“ Kette struktur ab Schritt 1 (story-arc-architect) fortsetzen.",
   "auto_zaehler": 0,
-  "gestartet": "2026-11-20T17:42",
+  "gestartet": "2026-11-20T17:51",
   "stift": false,
   "verlauf": [
     "2026-11-20T17:29 · Kette kickoff gestartet (Freigabe des Autors)",
@@ -19,6 +19,8 @@
     "2026-11-20T17:44 · erledigt: character-architect (02_Konzept/Figuren.md)",
     "2026-11-20T17:44 · erledigt: worldbuilding-architect (02_Konzept/Welt.md)",
     "2026-11-20T17:44 · erledigt: trope-challenger (02_Konzept/Trope-Vertrag.md)",
-    "2026-11-20T17:44 · wartet: Name der Wanderin (Vorschlag Ysa)? Erwacht er dort, wo er starb? R3 gilt nur abseits der Routen (bestätigen)? Dann Folgekette struktur starten."
+    "2026-11-20T17:44 · wartet: Name der Wanderin (Vorschlag Ysa)? Erwacht er dort, wo er starb? R3 gilt nur abseits der Routen (bestätigen)? Dann Folgekette struktur starten.",
+    "2026-11-20T17:51 · Kette struktur gestartet (Freigabe des Autors)",
+    "2026-11-20T17:52 · wartet: Handoff: Autor hat am 20.11. pausiert (Token-Budget). Bei „weiter“ Kette struktur ab Schritt 1 (story-arc-architect) fortsetzen."
   ]
 }

@@ -36,7 +36,7 @@
 |---|---|---|
 | R1 | Die Seele hat keinen Namen. Nur andere nennen sie „Mistwalker“. | `grep -n "Mistwalker" 05_Kapitel/` nur in wörtlicher Rede |
 | R2 | Jeder Tod kostet eine Erinnerung und hinterlässt eine Narbe (einen dauerhaften Vorteil). Kein Tod ohne Preis. | Beat-Sheets: jeder Tod nennt Verlust + Narbe |
-| R3 | Niemand kehrt aus dem Nebel zurück. Ausnahmen nur per Entscheidung in `ENTSCHEIDUNGEN.md`. | Kanon-Check |
+| R3 | Niemand kehrt aus dem Nebel zurück, der die markierten Routen verlässt oder verstoßen wird (E10). Ausnahmen nur per Entscheidung in `ENTSCHEIDUNGEN.md`. | Kanon-Check |
 | R4 | Keine Zahlen, keine Systemmeldungen, keine Spielbegriffe (kein „Level“, „Perk“, „Run“, „XP“, „Loot“). Fortschritt zeigt sich nur am Körper, an Narben und an gefundener Rüstung (E3, E4). | `grep -niE "level|perk|xp|loot|skill" 05_Kapitel/` |
 | R5 | Kälte ist immer da. Keine Szene ohne körperliche Winterkälte (Atem, Finger, Frost, Feuchte). | Lektorat: Hemingway-Wetter-Check |
 | R6 | Iron-Lung-Prinzip: Die Seele sieht nie mehr als ein paar Meter. Was im Nebel ist, wird über Geräusch, Druck und Kälte erfahren, selten über das Auge. | Lektorat: Sensorik-Check |

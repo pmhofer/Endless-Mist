@@ -22,3 +22,7 @@
 
 ## 2026-11-20 · Entscheidung nach Kickoff
 - Autor: „A+B, Nebel später, weiter“ → E7 Pivot A+B, E5 bleibt offen, Freigabe Phase 2B.
+
+## 2026-11-20 · Rückfragen Phase 2B
+- Autor: „ok weiter?“ → E8 Ysa, E9 Erwachen am Sterbeort, E10 R3 abseits der Routen; Freigabe Kette struktur.
+- Autor: „ne keine tokens mehr alles gut dokumentieren handoff“ → Kette struktur pausiert vor Schritt 1, Handoff geschrieben.
