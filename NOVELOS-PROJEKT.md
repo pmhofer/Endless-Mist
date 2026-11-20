@@ -29,7 +29,7 @@
 | `../../AGENTS.md` §5 | Anti-KI-Prosa-Gesetze |
 
 **Erzählperspektive:** Ich-Perspektive der Seele (E4)
-**Zeitform:** offen (Präsens würde die Iron-Lung-Unmittelbarkeit verstärken)
+**Zeitform:** Präsens (E6)
 
 ## 4. Harte Regeln (per Textsuche prüfbar)
 | # | Regel | Prüfung |

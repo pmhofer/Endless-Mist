@@ -9,3 +9,4 @@
 | E3 | 2026-11-20 | Kein LitRPG, kein GameLit-Zahlenwerk. Ton: dark, soulslike, wild und sphärisch. Keine Zahlen, keine Systemmeldungen, keine Spielbegriffe im Text. | Autor: „garnicht soll dark soulig sein. komplett wild spährisch da nerven die zahlen“ |
 | E4 | 2026-11-20 | Ich-Perspektive. Die Seele trägt, was sie bei sich hat, und findet unterwegs Rüstung (Fortschritt über Gefundenes, soulslike). | Autor: „er trägt. ich perspektive. er findet rüstung ist aber dark soulig soulslike“ |
 | E5 | 2026-11-20 | Was der Nebel ist, wird später entschieden (Phase 2B, worldbuilding-architect). | Autor |
+| E6 | 2026-11-20 | Zeitform: Präsens. Ich-Erzähler im Jetzt („Ich gehe. Der Frost beißt.“), passend zur Iron-Lung-Unmittelbarkeit. | Autor: „präsens im jetzt oder?“ (Rückfrage, Empfehlung Präsens bestätigt) |

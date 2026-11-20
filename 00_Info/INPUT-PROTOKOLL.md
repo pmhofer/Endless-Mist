@@ -13,3 +13,5 @@
 - Form: „boah neh garnicht soll dark soulig sein. komplett wild spährisch da nerven die zahlen sorry hab ich mich vertan“ → E3
 - Hülle/Perspektive: „er trägt. ich perspektive. er findet rüstung ist aber dark soulig soulslike“ → E4
 - Nebel: „Später entscheiden“ → E5
+
+- Zeitform: „präsens im jetzt oder?“ → E6 Präsens
