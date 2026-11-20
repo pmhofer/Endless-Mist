@@ -1,0 +1,53 @@
+# NOVELOS-PROJEKT — Endless Mist
+
+*Projektverfassung für die NovelOS-Skills. Kurz halten, Details stehen in den verlinkten Dateien.*
+
+## 1. Grunddaten
+| Feld | Wert |
+|---|---|
+| Titel | Endless Mist (deutscher Arbeitstitel: *Nebelgänger*) |
+| Sprache | Deutsch |
+| Genre | Dark Fantasy Horror mit Roguelike-Kern, als LitRPG oder GameLit (offen). `genre-styles.yaml`: `dark_fantasy_horror`, Unterton `grimdark/psychological_grimdark` |
+| **Aktiver Ansatz / Richtung** | A: Der Mistwalker-Loop (E1) |
+| Aktuelle Phase | 2A (Konzept) |
+| Zielwortzahl pro Kapitel | ca. 3.500 (vorläufig, offen) |
+| Zielwortzahl Buch | ca. 85.000 (vorläufig, offen) |
+
+## 2. Kanon
+| Rolle | Datei |
+|---|---|
+| **Kanon-Master** (gewinnt bei Widersprüchen) | `ENTSCHEIDUNGEN.md` |
+| Konzept, Figuren, Welt | `02_Konzept/Endless-Mist-Konzept.md` |
+| Begriffe/Glossar | Abschnitt „Begriffe“ im Konzept |
+| Story/Struktur | `03_Outline/` (noch leer) |
+| **Rohinput (nie verändern)** | `01_Rohmaterial/` |
+
+## 3. Stil
+| Datei | Wofür |
+|---|---|
+| `07_System/CLAUDE.md` | Ton und Stilregeln für KI-Agenten |
+| `../../AGENTS.md` §5 | Anti-KI-Prosa-Gesetze |
+
+**Erzählperspektive:** offen (Vorschlag: personal, eng an der Seele, Präteritum)
+**Zeitform:** offen
+
+## 4. Harte Regeln (per Textsuche prüfbar)
+| # | Regel | Prüfung |
+|---|---|---|
+| R1 | Die Seele hat keinen Namen. Nur andere nennen sie „Mistwalker“. | `grep -n "Mistwalker" 05_Kapitel/` nur in wörtlicher Rede |
+| R2 | Jeder Tod kostet eine Erinnerung und hinterlässt eine Narbe (einen dauerhaften Vorteil). Kein Tod ohne Preis. | Beat-Sheets: jeder Tod nennt Verlust + Narbe |
+| R3 | Niemand kehrt aus dem Nebel zurück. Ausnahmen nur per Entscheidung in `ENTSCHEIDUNGEN.md`. | Kanon-Check |
+| R4 | *Offen bis zur Entscheidung LitRPG/GameLit:* Bei GameLit keine Spielmechanik-Sprache in der Prosa (kein „Level“, „Perk“, „Run“). Bei LitRPG nur im festen Format der Systemmeldungen. | `grep -niE "level|perk|xp" 05_Kapitel/` |
+| R5 | Kälte ist immer da. Keine Szene ohne körperliche Winterkälte (Atem, Finger, Frost, Feuchte). | Lektorat: Hemingway-Wetter-Check |
+| R6 | Iron-Lung-Prinzip: Die Seele sieht nie mehr als ein paar Meter. Was im Nebel ist, wird über Geräusch, Druck und Kälte erfahren, selten über das Auge. | Lektorat: Sensorik-Check |
+
+## 5. Dateien & Versionen
+| Was | Pfad / Schema |
+|---|---|
+| Aktuelle Manuskriptversion | `05_Kapitel/MANUSKRIPT.md` (noch nicht angelegt) |
+| Beat-Sheets | `04_Beats/Kapitel_XX_Beats.md` |
+| Lektoratsberichte | `06_Analyse/lektorat-<datum>.md` |
+| Session-Log | `07_System/session-log.md` |
+
+**Regel (RULE 0):** Nichts löschen, nichts überschreiben. Neue Versionen anlegen, Veraltetes nach `99_Archiv/` verschieben (mit Notiz, warum).
+**Regel (RULE 00-B):** Vor jedem Schreib-, Lektorats- oder Analyseschritt eine kurze 2-Zeilen-Ansage, was geladen wird und was das Ziel ist.
