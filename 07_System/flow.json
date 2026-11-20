@@ -1,0 +1,19 @@
+{
+  "kette": "kickoff",
+  "schritt": 5,
+  "aktiv": true,
+  "wartet_auf_autor": true,
+  "frage": "Pivot A, B oder A+B? Und was ist der Nebel (E5)? Danach Phase 2B starten.",
+  "auto_zaehler": 0,
+  "gestartet": "2026-11-20T17:29",
+  "stift": false,
+  "verlauf": [
+    "2026-11-20T17:29 · Kette kickoff gestartet (Freigabe des Autors)",
+    "2026-11-20T17:29 · erledigt: story-genesis (Struktur, Seed-Dateien, E1-E6)",
+    "2026-11-20T17:29 · erledigt: devils-advocate (06_Analyse/DEVILS-ADVOCATE-AUDIT.md v1.1, OSI 6,7)",
+    "2026-11-20T17:29 · erledigt: writing-oracle (03_Outline/24-KAPITEL-RASTER.md)",
+    "2026-11-20T17:29 · erledigt: blurb-forge (00_Info/PITCH.md)",
+    "2026-11-20T17:29 · erledigt: novelos-timeline (02_Konzept/Zeitlinie.md)",
+    "2026-11-20T17:29 · wartet: Pivot A, B oder A+B? Und was ist der Nebel (E5)? Danach Phase 2B starten."
+  ]
+}

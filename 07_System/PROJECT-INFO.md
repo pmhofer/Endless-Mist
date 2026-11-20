@@ -15,7 +15,7 @@
 | Phase | Status |
 |---|---|
 | 1 Setup | ✅ erledigt (2026-11-20) |
-| 2A Konzept | 🔶 Entwurf steht, offene Fragen beim Autor |
+| 2A Konzept | ✅ Story Kickoff Pass durchlaufen (2026-11-20), wartet auf Pivot und E5 |
 | 2B Figuren & Welt | ⏳ |
 | 3 Struktur (24 Beats) | ⏳ |
 | 4 Kapitel-Outline | ⏳ |
