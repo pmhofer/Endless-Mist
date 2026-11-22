@@ -14,3 +14,4 @@
 | E8 | 2026-11-20 | Die Wanderin heißt **Ysa**. | Autor: „ok weiter?“ (Vorschlag übernommen) |
 | E9 | 2026-11-20 | Nach dem Tod erwacht er nach einer Nacht ungefähr dort, wo er starb, nie in einem Turm. | Autor: „ok weiter?“ (Vorschlag übernommen) |
 | E10 | 2026-11-20 | R3 („niemand kehrt zurück“) gilt für alle, die die markierten Routen verlassen oder verstoßen werden. Wanderer auf den Routen pendeln. | Autor: „ok weiter?“ (Vorschlag übernommen) |
+| E11 | 2026-11-22 | Raster v1.1, Emotionsbogen und Beats Kap. 1 freigegeben. Arbeitsmodus: Auto-Modus (Kette kapitel läuft ohne Zwischenstopp). Review über englische Audios (Edge-TTS, Eric). | Autor: „Automode und englische Audios zum reviewen“ |

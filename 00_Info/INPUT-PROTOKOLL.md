@@ -29,3 +29,4 @@
 
 ## 2026-11-22 · Fortsetzung
 - Autor: „Weiter“ → Kette struktur ab Schritt 1.
+- Autor: „Automode und englische Audios zum reviewen“ → Freigabe Raster/Emotionsbogen/Beats; Kette kapitel im Auto-Modus; englische Review-Audios (Edge-TTS, en-US-EricNeural, kostenlos).

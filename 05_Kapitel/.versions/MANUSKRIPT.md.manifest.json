@@ -1,0 +1,18 @@
+{
+  "file": "MANUSKRIPT.md",
+  "created_at": "2026-11-22T20:07:25.869798",
+  "current_version": "v1.0",
+  "history": [
+    {
+      "version": "v1.0",
+      "snapshot_file": "MANUSKRIPT-v1.0-20261122_200725.md",
+      "timestamp": "2026-11-22T20:07:25.870322",
+      "sha256": "82585e8c1ba379da9308207dcfabb12e6aed6ab21a69d0e936026aa3d2ad3500",
+      "words": 2022,
+      "author": "ai",
+      "note": "",
+      "tag": ""
+    }
+  ],
+  "updated_at": "2026-11-22T20:07:25.870578"
+}

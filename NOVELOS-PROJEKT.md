@@ -39,6 +39,7 @@
 | R3 | Niemand kehrt aus dem Nebel zurück, der die markierten Routen verlässt oder verstoßen wird (E10). Ausnahmen nur per Entscheidung in `ENTSCHEIDUNGEN.md`. | Kanon-Check |
 | R4 | Keine Zahlen, keine Systemmeldungen, keine Spielbegriffe (kein „Level“, „Perk“, „Run“, „XP“, „Loot“). Fortschritt zeigt sich nur am Körper, an Narben und an gefundener Rüstung (E3, E4). | `grep -niE "level|perk|xp|loot|skill" 05_Kapitel/` |
 | R5 | Kälte ist immer da. Keine Szene ohne körperliche Winterkälte (Atem, Finger, Frost, Feuchte). | Lektorat: Hemingway-Wetter-Check |
+| R7 | *Vorschlag (Lektorat Kap. 2):* Ab Kap. 2 kennt das Ich das Wort „Turm“ nicht mehr („das Hohe mit dem Licht“), bis die Erinnerung zurückkommt. | `grep -n "Turm" 05_Kapitel/` nur in fremder Rede ab Kap. 2 |
 | R6 | Iron-Lung-Prinzip: Die Seele sieht nie mehr als ein paar Meter. Was im Nebel ist, wird über Geräusch, Druck und Kälte erfahren, selten über das Auge. | Lektorat: Sensorik-Check |
 
 ## 5. Dateien & Versionen

@@ -15,3 +15,8 @@
 ## 2026-11-22 · Kette struktur
 - Raster v1.1 (Heldenreise + Rebirth, Twist-Saaten für A und B), Emotionsbogen (Taubheit → Frieden ohne Zeugen), Szenen Akt I, Beats Kap. 1
 - Flow wartet: Freigabe, dann Kette kapitel
+
+## 2026-11-22 · Auto-Modus Kap. 1–2
+- E11 Freigabe + Auto-Modus. Kap. 1 (2.040 W) und Kap. 2 (1.240 W) geschrieben, Lektorat je 8/10, englische Review-Audios (Edge-TTS Eric)
+- Flow-Auto-Modus in NovelOS ergänzt (`novelos_flow.py auto`)
+- Wartet: Review der Audios, dann Kap. 3

@@ -20,6 +20,6 @@
 | 3 Struktur (24 Beats) | ✅ Raster v1.1, Emotionsbogen (2026-11-22) |
 | 4 Kapitel-Outline | ⏳ |
 | 5 Beats | 🔶 Szenen Akt I, Beats Kap. 1 |
-| 6 Schreiben | ⏳ |
+| 6 Schreiben | 🔶 Kap. 1–2 v1.0 (2026-11-22), Review-Audios EN |
 | 7 Revision | ⏳ |
 | 8 Copyedit | ⏳ |
