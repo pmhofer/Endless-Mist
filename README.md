@@ -20,6 +20,6 @@ Eine namenlose Seele, die nicht tot bleiben kann, wandert durch einen endlosen N
 | `99_Archiv/` | Die nicht gewählten Ansätze B und C |
 
 ## Nächste Schritte
-1. **Review:** englische Audios Kap. 1–2 anhören (`02_Audio/versions/v1.0/audio/`), Text in `05_Kapitel/MANUSKRIPT.md`.
-2. Feedback geben oder „weiter“: Der Auto-Modus schreibt dann Kap. 3 (Ysa tritt auf) samt Audio.
-3. Offen: Was ist der Nebel (E5)? R7 („Turm“ vergessen) bestätigen? Wer zählt hinter dem Tor?
+1. **Review:** Kap. 1–2 v2.0 (`05_Kapitel/MANUSKRIPT.md`) und die neuen englischen Audios v1.1 (`02_Audio/versions/v1.1/audio/`). Klingt die Stimme jetzt richtig?
+2. Wenn ja, wird `02_Konzept/STIL.md` der Maßstab, und der Auto-Modus schreibt Kap. 3 (Ysa).
+3. Offen: Was ist der Nebel (E5)? R7 („Turm“ vergessen)? Wer zählt hinter dem Tor?

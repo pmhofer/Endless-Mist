@@ -30,3 +30,4 @@
 ## 2026-11-22 · Fortsetzung
 - Autor: „Weiter“ → Kette struktur ab Schritt 1.
 - Autor: „Automode und englische Audios zum reviewen“ → Freigabe Raster/Emotionsbogen/Beats; Kette kapitel im Auto-Modus; englische Review-Audios (Edge-TTS, en-US-EricNeural, kostenlos).
+- Autor: „Naja die scripte. Nutz die skills!!! Verboten ist auch zu oft er hört sie sagt ich mache das ist so stumpf du sollst klingen wie ein echte writer und der Stil soll zur Story passen“ → STIL.md, prosa-check F1/F2, Kap. 1–2 v2.0, Audio-Skripte v1.1 neu nachgeschrieben.

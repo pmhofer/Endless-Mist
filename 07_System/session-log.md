@@ -20,3 +20,6 @@
 - E11 Freigabe + Auto-Modus. Kap. 1 (2.040 W) und Kap. 2 (1.240 W) geschrieben, Lektorat je 8/10, englische Review-Audios (Edge-TTS Eric)
 - Flow-Auto-Modus in NovelOS ergänzt (`novelos_flow.py auto`)
 - Wartet: Review der Audios, dann Kap. 3
+
+## 2026-11-22 · Stil-Neufassung
+- Autor-Kritik → `STIL.md`, prosa-check F1/F2 (Framework), Kap. 1–2 v2.0 (F2 40 % → 4 %, F1 14 → 0), Audio-Skripte v1.1 nachgeschrieben und gerendert

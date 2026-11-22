@@ -3,12 +3,11 @@
   "schritt": 0,
   "aktiv": true,
   "wartet_auf_autor": true,
-  "frage": "Review: englische Audios Kap. 1–2 anhören (02_Audio/versions/v1.0/audio). Feedback oder „weiter“, dann Kap. 3 (Ysa) im Auto-Modus.",
+  "frage": "Review Kap. 1–2 v2.0 und Audios v1.1: Klingt die Stimme richtig? Dann Kap. 3 (Ysa).",
   "auto_zaehler": 0,
   "gestartet": "2026-11-22T20:06",
   "stift": false,
   "verlauf": [
-    "2026-11-20T17:44 · erledigt: character-architect (02_Konzept/Figuren.md)",
     "2026-11-20T17:44 · erledigt: worldbuilding-architect (02_Konzept/Welt.md)",
     "2026-11-20T17:44 · erledigt: trope-challenger (02_Konzept/Trope-Vertrag.md)",
     "2026-11-20T17:44 · wartet: Name der Wanderin (Vorschlag Ysa)? Erwacht er dort, wo er starb? R3 gilt nur abseits der Routen (bestätigen)? Dann Folgekette struktur starten.",
@@ -37,7 +36,8 @@
     "2026-11-22T20:08 · erledigt: hook-architect (Hook: Stimme zählt mit)",
     "2026-11-22T20:08 · erledigt: novelos-lektorat (06_Analyse/lektorat-kap02-2026-11-22.md)",
     "2026-11-22T20:08 · Auto-Modus: Folgekette kapitel gestartet (Kapitel 3)",
-    "2026-11-22T20:08 · wartet: Review: englische Audios Kap. 1–2 anhören (02_Audio/versions/v1.0/audio). Feedback oder „weiter“, dann Kap. 3 (Ysa) im Auto-Modus."
+    "2026-11-22T20:08 · wartet: Review: englische Audios Kap. 1–2 anhören (02_Audio/versions/v1.0/audio). Feedback oder „weiter“, dann Kap. 3 (Ysa) im Auto-Modus.",
+    "2026-11-22T20:13 · wartet: Review Kap. 1–2 v2.0 und Audios v1.1: Klingt die Stimme richtig? Dann Kap. 3 (Ysa)."
   ],
   "kapitel_nr": 3,
   "auto": true

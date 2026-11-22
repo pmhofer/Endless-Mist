@@ -6,6 +6,9 @@
 |---|---|---|---|
 | v1.0 | 1 · Turned Away | `versions/v1.0/scripts/kapitel-01-en.txt` | `versions/v1.0/audio/kapitel-01-en-abschnitt-0*.mp3` |
 | v1.0 | 2 · Something Missing | `versions/v1.0/scripts/kapitel-02-en.txt` | `versions/v1.0/audio/kapitel-02-en-abschnitt-0*.mp3` |
+| **v1.1** | 1–2 (nach `STIL.md`, aktuell) | `versions/v1.1/scripts/kapitel-0*-en.txt` | `versions/v1.1/audio/` |
+
+v1.0 ist überholt (wörtliche Übersetzung, Filterwörter) und bleibt nur zum Vergleich.
 
 Die Skripte sind englische Fassungen des deutschen Manuskripts (`05_Kapitel/MANUSKRIPT.md`), fürs Vorlesen angepasst. Kanon ist das deutsche Manuskript.
 

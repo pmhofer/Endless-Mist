@@ -12,7 +12,17 @@
       "author": "ai",
       "note": "",
       "tag": ""
+    },
+    {
+      "version": "v1.0",
+      "snapshot_file": "MANUSKRIPT-v1.0-20261122_201120.md",
+      "timestamp": "2026-11-22T20:11:20.042918",
+      "sha256": "0a8e481d7f9120ec16ca16905f138ffe7bf0b7601b8cfb8cf3370bc4fa6a52a4",
+      "words": 3268,
+      "author": "novelos-kapitel",
+      "note": "Stand vor Kap. 1 v2.0 (Autor-Kritik Stil)",
+      "tag": ""
     }
   ],
-  "updated_at": "2026-11-22T20:07:25.870578"
+  "updated_at": "2026-11-22T20:11:20.043489"
 }

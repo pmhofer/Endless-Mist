@@ -8,3 +8,4 @@
 - Sensorik-Hierarchie und Anti-KI-Prosa-Gesetze aus `AGENTS.md` §5 gelten ausnahmslos.
 - Ich-Perspektive (E4), Präsens (E6). Kein Name für das Ich.
 - Soulslike, wild, sphärisch (E3): keine Zahlen, keine Systemmeldungen, keine Spielbegriffe. Fortschritt nur über Körper, Narben und gefundene Rüstung.
+- **Erzählstimme: `../02_Konzept/STIL.md` vor jedem Kapitel lesen.** Keine Ich-Monotonie (F2 ≤ 25 %), keine Filterwörter (F1). Skills per Skill-Aufruf laden.

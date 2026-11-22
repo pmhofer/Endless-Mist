@@ -25,6 +25,7 @@
 ## 3. Stil
 | Datei | Wofür |
 |---|---|
+| `02_Konzept/STIL.md` | **Erzählstimme und Handwerk (verbindlich)**, S1–S3 |
 | `07_System/CLAUDE.md` | Ton und Stilregeln für KI-Agenten |
 | `../../AGENTS.md` §5 | Anti-KI-Prosa-Gesetze |
 
