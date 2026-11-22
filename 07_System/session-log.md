@@ -23,3 +23,6 @@
 
 ## 2026-11-22 · Stil-Neufassung
 - Autor-Kritik → `STIL.md`, prosa-check F1/F2 (Framework), Kap. 1–2 v2.0 (F2 40 % → 4 %, F1 14 → 0), Audio-Skripte v1.1 nachgeschrieben und gerendert
+
+## 2026-11-22 · Umzug ins eigene Repo
+- `pmhofer/endless-mist` mit Verlauf (subtree split, 11 Commits), Submodule `novelos/` auf `1b12719`, Skill-Link, `llms.txt`, Hooks, Renderer nach `02_Audio/tools/`

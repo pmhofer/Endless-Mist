@@ -1,6 +1,6 @@
 # PROJECT-INFO: Endless Mist
 
-**Angelegt:** 2026-11-20 (story-genesis) · **Ablage:** `NovelOS/projects/endless-mist/`
+**Angelegt:** 2026-11-20 (story-genesis) · **Ablage:** eigenes Repo `pmhofer/endless-mist` (seit 2026-11-22, E13), NovelOS als Submodule `novelos/`
 
 | Feld | Wert |
 |---|---|

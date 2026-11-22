@@ -1,0 +1,22 @@
+# NovelOS-Projekt
+
+> Dies ist ein Romanprojekt, das mit dem Framework NovelOS arbeitet. Das Framework liegt als Submodule unter `novelos/`. Jeder Agent (Claude Code, Antigravity, Gemini, Cursor, OpenAI) liest zuerst diese Datei, dann `novelos/llms.txt` und `novelos/AGENTS.md`.
+
+## Sofort beim Start
+
+1. Status prüfen und dem Autor kurz mitteilen: `python3 novelos/tools/novelos_status.py .` (in Claude Code automatisch per Hook, `.claude/settings.json`).
+2. `README.md`, `NOVELOS-PROJEKT.md` (Verfassung, harte Regeln) und `ENTSCHEIDUNGEN.md` lesen. Nichts erfinden, nichts aus anderen Projekten mischen.
+3. Autoren-Input ist heilig (`01_Rohmaterial/`, `user-input/`, `*-user.md`): nie verändern.
+4. Jede substanzielle Antwort endet mit **Standort** · **Erledigt** · **Nächster Schritt** (`novelos/docs/status-harness.md`).
+5. Flow: `python3 novelos/tools/novelos_flow.py status .` Läuft eine Kette, nach jedem Schritt direkt weiter, nur für echte Entscheidungen anhalten. Im Stift-Modus nie unterbrechen (`novelos/docs/flow-harness.md`).
+
+## Skills
+
+Die Skills liegen unter `.claude/skills` (Link auf `novelos/.claude/skills`). Einstieg: „start“ → `novelos-start`, „run“ → `novelos-autopilot`, Planung ganzer Skill-Ketten → `writing-skill-sequencer`. Alle Skills: `novelos/docs/SKILLS-KATALOG.md`.
+
+## Framework
+
+- [novelos/llms.txt](novelos/llms.txt): Einstieg ins Framework
+- [novelos/AGENTS.md](novelos/AGENTS.md): Betriebssystem für alle Agenten
+- [novelos/docs/project-model.md](novelos/docs/project-model.md): ein Projekt = ein Repo
+- Framework nie im Ordner `novelos/` ändern. Updates: im Projekt „update“ sagen (`novelos-update`).

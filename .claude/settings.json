@@ -1,0 +1,34 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "f=\"$CLAUDE_PROJECT_DIR/novelos/scripts/hooks/status_hook.py\"; [ -f \"$f\" ] && python3 \"$f\" session || true"
+          }
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "f=\"$CLAUDE_PROJECT_DIR/novelos/scripts/hooks/status_hook.py\"; [ -f \"$f\" ] && python3 \"$f\" prompt || true"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "f=\"$CLAUDE_PROJECT_DIR/novelos/scripts/hooks/flow_stop_hook.py\"; [ -f \"$f\" ] && python3 \"$f\" || true"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,6 +1,8 @@
 # ENDLESS MIST — Lies das zuerst
 
-**Stand:** 2026-11-20 · **Phase:** 6 Schreiben, Kap. 1–2 v1.0 (Auto-Modus) · **Ansatz:** A, der Mistwalker-Loop (E1) · soulslike, Ich-Perspektive, keine Zahlen (E3, E4)
+*Eigenes Repo seit 2026-11-22. Framework: `novelos/` (Submodule). Einstieg für Agenten: `llms.txt`. Status: `python3 novelos/tools/novelos_status.py .` · Flow: `python3 novelos/tools/novelos_flow.py status .`*
+
+**Stand:** 2026-11-20 · **Phase:** 6 Schreiben, Kap. 1–2 v2.0 (Auto-Modus) · **Ansatz:** A, der Mistwalker-Loop (E1) · soulslike, Ich-Perspektive, keine Zahlen (E3, E4)
 *Kurzes Dashboard. Bei Widerspruch gilt `ENTSCHEIDUNGEN.md`, danach `02_Konzept/Endless-Mist-Konzept.md`.*
 
 ## Worum es geht
@@ -16,7 +18,8 @@ Eine namenlose Seele, die nicht tot bleiben kann, wandert durch einen endlosen N
 | `05_Kapitel/` | Das Manuskript (`MANUSKRIPT.md`, Kap. 1–2) |
 | `06_Analyse/` | Prüfberichte, erster Devil's-Advocate-Check |
 | `02_Audio/` | Englische Review-Audios (Edge-TTS, Eric) |
-| `07_System/` | Projektinfo, Regeln für KI-Agenten |
+| `07_System/` | Projektinfo, Regeln für KI-Agenten, `flow.json` |
+| `novelos/` | Das Framework (Submodule, nicht verändern) |
 | `99_Archiv/` | Die nicht gewählten Ansätze B und C |
 
 ## Nächste Schritte

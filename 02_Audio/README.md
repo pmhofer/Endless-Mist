@@ -12,4 +12,4 @@ v1.0 ist überholt (wörtliche Übersetzung, Filterwörter) und bleibt nur zum V
 
 Die Skripte sind englische Fassungen des deutschen Manuskripts (`05_Kapitel/MANUSKRIPT.md`), fürs Vorlesen angepasst. Kanon ist das deutsche Manuskript.
 
-**Rendern:** `python3 <meta>/02_Audio/tools/render_edge.py <skript> --lang en --out versions/v1.0/audio` (braucht `edge-tts` und `ffmpeg`. In der Cloud muss das Proxy-Zertifikat im certifi-Bundle der venv stehen.)
+**Rendern:** `python3 02_Audio/tools/render_edge.py <skript> --lang en --out 02_Audio/versions/<version>/audio` (braucht `edge-tts` und `ffmpeg`. In der Cloud muss das Proxy-Zertifikat im certifi-Bundle der venv stehen.)

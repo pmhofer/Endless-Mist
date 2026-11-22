@@ -1,0 +1,3 @@
+[submodule "novelos"]
+	path = novelos
+	url = https://github.com/pmhofer/NovelOS
