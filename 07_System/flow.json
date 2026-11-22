@@ -1,9 +1,9 @@
 {
   "kette": "struktur",
-  "schritt": 0,
+  "schritt": 3,
   "aktiv": true,
   "wartet_auf_autor": true,
-  "frage": "Handoff: Autor hat am 20.11. pausiert (Token-Budget). Bei „weiter“ Kette struktur ab Schritt 1 (story-arc-architect) fortsetzen.",
+  "frage": "Raster v1.1, Emotionsbogen und Beats Kap. 1 freigeben? Dann Kette kapitel: Kapitel 1 schreiben.",
   "auto_zaehler": 0,
   "gestartet": "2026-11-20T17:51",
   "stift": false,
@@ -21,6 +21,11 @@
     "2026-11-20T17:44 · erledigt: trope-challenger (02_Konzept/Trope-Vertrag.md)",
     "2026-11-20T17:44 · wartet: Name der Wanderin (Vorschlag Ysa)? Erwacht er dort, wo er starb? R3 gilt nur abseits der Routen (bestätigen)? Dann Folgekette struktur starten.",
     "2026-11-20T17:51 · Kette struktur gestartet (Freigabe des Autors)",
-    "2026-11-20T17:52 · wartet: Handoff: Autor hat am 20.11. pausiert (Token-Budget). Bei „weiter“ Kette struktur ab Schritt 1 (story-arc-architect) fortsetzen."
+    "2026-11-20T17:52 · wartet: Handoff: Autor hat am 20.11. pausiert (Token-Budget). Bei „weiter“ Kette struktur ab Schritt 1 (story-arc-architect) fortsetzen.",
+    "2026-11-22T19:45 · weiter",
+    "2026-11-22T19:47 · erledigt: story-arc-architect (03_Outline/24-KAPITEL-RASTER.md v1.1)",
+    "2026-11-22T19:47 · erledigt: emotion-arc-architect (02_Konzept/EMOTIONSBOGEN.md)",
+    "2026-11-22T19:47 · erledigt: plot-architect (03_Outline/SZENEN-AKT-I.md, 04_Beats/Kapitel_01_Beats.md)",
+    "2026-11-22T19:47 · wartet: Raster v1.1, Emotionsbogen und Beats Kap. 1 freigeben? Dann Kette kapitel: Kapitel 1 schreiben."
   ]
 }

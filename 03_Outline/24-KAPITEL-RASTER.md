@@ -1,62 +1,69 @@
-# Endless Mist — 24-Kapitel-Raster (Entwurf v1.0)
+# Endless Mist — 24-Kapitel-Raster (v1.1)
 
-*Skill `writing-oracle`, Kette 4 Schritt 3. Derek-Murphy-Raster mit 9-Punkte-Struktur, gemappt auf Ansatz A (E1). Nichts davon ist abgenommen.*
-*`[OFFEN: …]` markiert Stellen, die von einer Autoren-Entscheidung abhängen (Nebel = E5, Pivot A/B, Ende).*
+*Skill `story-arc-architect`, Kette `struktur` Schritt 1. Überarbeitung von v1.0 (Snapshot in `.versions/`) nach E7–E10. Entwurf, nicht abgenommen. `[OFFEN]` = Autor entscheidet.*
 
-**Takt:** Ein Kapitel ist ein Wegstück. Der Tod ist kein Kapitelende, sondern ein Schnitt mitten im Kapitel. Die Zählung der Tode läuft mit (T1, T2 …), damit Kosten und Narben nachvollziehbar bleiben.
+## 1. Makro-Entscheidungen (Vorschlag)
+| Feld | Wahl | Begründung |
+|---|---|---|
+| **Master-Arc** | Heldenreise (positiver Wandel) | Lie „stark genug = eingelassen“ → Need „Wert ohne Zeugen“ |
+| **Booker-Plot** | Rebirth | Er muss das Monster, das er war, annehmen, um jemand Neues zu werden. Editor-Falle: Das Opfer muss konkret sein (Kap. 21: die eine Erinnerung, die er nicht eintauscht). |
+| **Lee-Child-Typ** | Leaving Plot (Odyssee durch den Nebel), mit einem Huddling-Block in Kap. 19 (er sitzt vor dem Tor) | Jede Etappe neues Terrain, neue Begegnung |
+| **Klimax-Typ** | Innere Entscheidung mit äußerem Preis | Er gewinnt nicht durch Stärke, sondern durch Verzicht |
+| **Takt** | Ein Kapitel = ein Wegstück. Tode sind Schnitte mitten im Kapitel, nie Kapitelende. | hält den Loop beweglich |
 
-## Akt I — Der Nebel (Kap. 1–6, 0–25 %)
-| Kap. | Murphy-Beat | Inhalt (Vorschlag) | Tod / Preis / Narbe |
+## 2. Twist-Mechanik (Fair Play, Rental-Car-Gesetz)
+Beide Twists entstehen aus dem Makel und der Welt, nicht aus dem Nichts. Jede Enthüllung braucht vorher mindestens drei Saaten.
+
+| Twist | Enthüllung | Saaten (Plant) |
+|---|---|---|
+| **B: Er ist die Legende** | Kap. 12 (Ahnung), Kap. 20 (Gewissheit) | Kap. 1 die Turmwache schreit „Mistwalker!“, bevor er etwas getan hat · Kap. 5 ein Rüstungsteil passt zu gut · Kap. 9 Ysa erzählt die Legende vom Klopfen bis die Knöchel weiß sind, und er hat genau diese Knöchel · Kap. 11 eine Spur passt genau zu seinen Füßen |
+| **A: Ysa trägt seine Erinnerungen** | Kap. 16 (er ahnt es), Kap. 20 (sie gibt zurück) | Kap. 3 „Du schon wieder.“ · Kap. 7 sie nennt ein Wort, das ihm gerade verloren ging · Kap. 12 sie weint nach seinem Tod, bevor er erwacht ist · Kap. 14 sie weiß, wovor er Angst hat |
+
+## 3. Die 24 Kapitel
+### Akt I — Der Nebel (Kap. 1–6, 0–25 %)
+| Kap. | Beat | Inhalt | Tod (T) |
 |---|---|---|---|
-| 1 | Really Bad Day (Hook & Lie) | Ich erwache im Nebel. Kälte, Geräusche, Sicht von drei Metern. Ich finde einen Turm und klopfe. Von der Mauer schreit man „Mistwalker!“, das Tor bleibt zu. Etwas Unsichtbares tötet mich. Ich erwache wieder. **Lie:** „Wenn ich stark genug bin, lassen sie mich ein.“ | T1 · vergessen: ? · Narbe: Haut, die Kälte länger aushält |
-| 2 | Status quo der Welt | Der Körper lernt die Regeln: Was mich tötete, kann ich jetzt hören. Dafür fehlt etwas, ein Wort, ein Gesicht. Erste Zufallsbegegnung, die verflucht. | T2 |
-| 3 | Inciting Incident | Begegnung, die hilft: die **Wanderin mit den Vorräten** (Vorschlag) ist der erste Mensch, der nicht flieht. Sie sagt: „Du schon wieder.“ Ich kenne sie nicht. | |
-| 4 | Grasping at Straws | Ich folge ihrer Route zwischen den Türmen. Begegnungen, die heimsuchen und kämpfen. | T3 |
-| 5 | Erste Fundstücke | Das erste Rüstungsteil, von einem Toten. Seine Geschichte kennt niemand mehr. | |
-| 6 | **First Plot Point (25 %)** | Ich sterbe zum ersten Mal **absichtlich**, um stärker zu werden. Der Preis ist eine Erinnerung, die ich behalten wollte. Kein Zurück. | T4 (gewählt) |
+| 1 | Really Bad Day | Erwachen im Nebel, Kälte, Sicht von drei Metern. Er findet den ersten Turm und klopft. Von oben: „Mistwalker!“ Das Tor bleibt zu. Etwas Unsichtbares tötet ihn. Er erwacht am selben Ort (E9). **Lie gesetzt.** | T1 |
+| 2 | Something Peculiar | Er hört jetzt, was ihn tötete (erste Narbe). Ihm fehlt ein Wort. Eine Begegnung, die verflucht: eine Stimme läuft ihm nach. | T2 |
+| 3 | Inciting Incident | **Ysa** auf ihrer Route, die Erste, die nicht flieht: „Du schon wieder.“ Er kennt sie nicht. | |
+| 4 | Call to Adventure | Ysa zeigt ihm die Route zum nächsten Turm. Auf der Route kehrt man zurück (E10), abseits nicht. Er will zurück zum ersten Turm. | |
+| 5 | Head in Sand | Er geht allein abseits der Route zurück und stirbt. Erstes Rüstungsteil von einem Toten, es passt zu gut (Saat B). | T3 |
+| 6 | **Pull the Rug Out** | Er stirbt **absichtlich**, um die Narbe zu bekommen, die ihn am Tor überleben lässt. Preis: eine Erinnerung, die er behalten wollte. Kein Zurück. | T4 (gewählt) |
 
-## Akt IIa — Der Loop (Kap. 7–12, 25–50 %)
-| Kap. | Murphy-Beat | Inhalt (Vorschlag) | Tod / Preis / Narbe |
+### Akt IIa — Der Loop (Kap. 7–12, 25–50 %)
+| Kap. | Beat | Inhalt | Tod (T) |
 |---|---|---|---|
-| 7 | Fun & Games | Der Tod als Werkzeug. Die Rüstung wächst, die Begegnungen werden härter und klüger, je weiter ich gehe (aus deiner Notiz). | T5, T6 |
-| 8 | Fun & Games | Ein Dorf im Nebel: offen, zu freundlich. Ist es echt? | |
-| 9 | Fun & Games | Die Wanderin erzählt von „dem Mistwalker“ aus den Turmgeschichten. `[OFFEN: Pivot B, sind es meine Leben?]` | T7 |
-| 10 | **First Pinch Point** | Ich finde einen **anderen Mistwalker**, der alles vergessen hat. Hohl, nur noch Narben und Rüstung. Das ist meine Zukunft. | |
-| 11 | Vertiefung | Erste Ahnung, was der Nebel ist. `[OFFEN: E5 Nebel]` | T8 |
-| 12 | Vor dem Spiegel | Ich merke, dass ich die Wanderin vergesse, Stück für Stück. `[OFFEN: Pivot A, sie behält, was ich verliere]` | |
-| 13 | **Midpoint (50 %)** | Ein Turm öffnet sich, aber nur, um jemanden in den Nebel zu verstoßen. Ich sehe, wie die Türme den Nebel füttern. Umschalten von reaktiv zu proaktiv: Ich will nicht mehr hinein. Ich will wissen, wer ich war. | |
+| 7 | Enemies & Allies | Er geht mit Ysa. Die Wanderer, die Turmordnungen, die Begegnungen. Ysa sagt ein Wort, das ihm eben verloren ging (Saat A). | T5 |
+| 8 | Games & Trials | Ein Dorf im Nebel, zu freundlich. `[OFFEN: echt?]` Seine alte Methode (sterben, stärker werden) wirkt hier nicht. | |
+| 9 | Earning Respect | Er rettet einen Wanderer und gewinnt einen Platz am Feuer. Ysa erzählt die erste Turmlegende (Saat B). | T6 |
+| 10 | **First Pinch** | **Der Hohle**: ein Mistwalker ohne Erinnerung, nur noch Narben und Rüstung, ein einziges Wort. Seine Zukunft. | |
+| 11 | Problem Revealed | Je weiter sie gehen, desto klüger werden die Begegnungen. Eine Spur passt genau zu seinen Füßen (Saat B). Erste Ahnung, was der Nebel ist `[E5]`. | T7 |
+| 12 | Discovery & Dilemma | Er merkt, dass er Ysa vergisst. Sie weint über seinen Tod, bevor er erwacht ist (Saat A). Ahnung: Die Legenden handeln von ihm. Dilemma: weiter sterben oder bleiben, wer er ist. | T8 |
 
-## Akt IIb — Der Preis (Kap. 14–19, 50–80 %)
-| Kap. | Murphy-Beat | Inhalt (Vorschlag) | Tod / Preis / Narbe |
+### Akt IIb — Der Preis (Kap. 13–18, 50–75 %)
+| Kap. | Beat | Inhalt | Tod (T) |
 |---|---|---|---|
-| 14 | Bad Guys Close In | Der Nebel wird gezielter. Begegnungen, die mich zu kennen scheinen. | T9 |
-| 15 | Eskalation | Ich rette den Verstoßenen aus Kap. 13 und bezahle mit vielen Toden hintereinander. | T10–T12 |
-| 16 | **Second Pinch Point** | Die Wanderin verschwindet im Nebel oder wird verwundet. `[OFFEN]` | |
-| 17 | Verlust | Ich suche sie und sterbe dabei so oft, dass ich vergesse, wen ich suche. | T13+ |
-| 18 | **Dark Night of the Soul** | Ich bin fast hohl. Nur noch die Narben sagen mir, dass ich gelebt habe. | |
-| 19 | Giving Up | Ich setze mich an ein Turmtor und warte darauf, eingelassen zu werden. Das ist die Lüge in Reinform. | |
+| 13 | **Midpoint** | Der erste Turm öffnet das Tor, aber nur, um einen **Verstoßenen** in den Nebel zu stoßen. Die Torhüterin bietet ihm Einlass, wenn er künftig die Verstoßenen hinausführt. Umschalten: Er will nicht mehr hinein, er will wissen, wer er war. | |
+| 14 | Plan of Attack | Er sucht den Verstoßenen im Nebel. Ysa weiß, wovor er Angst hat (Saat A). | T9 |
+| 15 | Crucial Role | Nur er kann so oft sterben, bis er den Jungen erreicht. Er trägt ihn zur Route. Viele Tode hintereinander. (Spiegelt Legende 2.) | T10–T12 |
+| 16 | **Second Pinch** | Ysa wird auf der Route verwundet oder verschwindet `[OFFEN]`. Er ahnt, dass sie etwas von ihm trägt. | |
+| 17 | Verlust | Er sucht sie und stirbt so oft, dass er vergisst, wen er sucht. | T13+ |
+| 18 | **Dark Night** | Fast hohl. Nur die Narben sagen ihm, dass er gelebt hat. Er tastet sie ab und weiß nicht mehr, wozu. | |
 
-## Akt III — Der letzte Tod (Kap. 20–24, 80–100 %)
-| Kap. | Murphy-Beat | Inhalt (Vorschlag) | Tod / Preis / Narbe |
+### Akt III — Der letzte Tod (Kap. 19–24, 75–100 %)
+| Kap. | Beat | Inhalt | Tod (T) |
 |---|---|---|---|
-| 20 | Wendepunkt | Etwas, das ich behalten habe, ohne es zu wissen: eine Narbe, ein Rüstungsteil, ein Satz. `[OFFEN: Pivot A, die Wanderin gibt zurück]` | |
-| 21 | Seizing the Sword | Ich wähle, welche Erinnerung ich nie hergebe, egal wie stark der nächste Tod mich machen würde. **Need:** Mein Wert braucht keinen Zeugen. | |
-| 22 | Showdown | Konfrontation mit dem Nebel bzw. seinem Kern. `[OFFEN: E5]` | T? |
-| 23 | Unexpected Victory | Der Sieg kostet etwas anderes als einen Tod. | |
-| 24 | **New Normal** | `[OFFEN: Ende, wird er eingelassen?]` Vorschlag: Das Tor öffnet sich, und ich gehe nicht hinein. | |
+| 19 | Giving Up (Huddling) | Er setzt sich vor das Tor des ersten Turms und wartet. Die Lie in Reinform. Die Torhüterin wiederholt ihr Angebot. | |
+| 20 | Wendepunkt | Ysa findet ihn und gibt ihm zurück, was sie trägt (A). Er erfährt, wer er war (B). Sie bezahlt mit ihrem Turmrecht. | |
+| 21 | Seizing the Sword | Er wählt die eine Erinnerung, die er nie hergibt, und lehnt das Angebot ab. **Need.** Preis nach Welt.md: Der Tod nimmt jetzt etwas vom Körper. | T? |
+| 22 | Showdown | Konfrontation mit dem Nebel bzw. dem Turm, der ihn füttert `[E5]`. | |
+| 23 | Unexpected Victory | Er siegt nicht durch Stärke, sondern weil er etwas behält. | |
+| 24 | **New Normal** | Das Tor öffnet sich für ihn. Er geht nicht hinein `[Vorschlag, OFFEN]`. Er geht mit Ysa auf die Route. Niemand im Turm sieht es. | |
 
-## 9-Punkte-Struktur (Kurzform)
-1. **Hook:** abgewiesen am ersten Turm, erster Tod (Kap. 1)
-2. **Plot Turn 1:** die Wanderin kennt mich (Kap. 3)
-3. **Pinch 1:** der hohle Mistwalker (Kap. 10)
-4. **Midpoint:** die Türme füttern den Nebel (Kap. 13)
-5. **Pinch 2:** die Wanderin ist weg (Kap. 16)
-6. **Plot Turn 2:** was ich unwissentlich behalten habe (Kap. 20)
-7. **Resolution:** die gewählte Erinnerung (Kap. 21–23)
-8. **Nachklang:** das offene Tor (Kap. 24)
+## 4. Prozentmarken-Check
+Inciting Kap. 3 (12,5 %) ✓ · Plot Point 1 Kap. 6 (25 %) ✓ · Pinch 1 Kap. 10 ✓ · Midpoint Kap. 13 (50 %) ✓ · Pinch 2 Kap. 16 ✓ · Dark Night Kap. 18 ✓ · Klimax Kap. 21–23 ✓ · Schlussbild Kap. 24 ✓
 
-## Diagnose (Oracle)
-- **Stärke:** Die Kosten pro Tod tragen den Spannungsbogen, und der Midpoint schaltet die Figur sauber um.
-- **Risiko „Soggy Middle“ (Plot-Fehler 5):** Kap. 7–9 sind Loop-Wiederholung. Gegenmittel: Jede Begegnung muss eine neue Regel über den Nebel enthüllen.
-- **Risiko „passive Hauptfigur“ (Plot-Fehler 3):** Akt I ist reaktiv. Das ist gewollt, der Absichtstod in Kap. 6 muss aber als echte Wahl spürbar sein.
-- **Nächster Schritt:** E5 (Nebel) und Pivot A/B entscheiden, danach `plot-architect` für Szenen und Beats.
+## 5. Risiken
+- **Mittelteil (Kap. 7–9):** Jede Begegnung muss eine neue Nebel-Regel zeigen (Welt.md §4).
+- **Passiver Akt I:** Kap. 5 und 6 sind seine ersten echten Wahlen. Sie müssen sich wie Entscheidungen anfühlen, nicht wie Pech.
+- **E5 offen:** Kap. 11 und 22 hängen davon ab. Bis dahin bleiben sie Platzhalter.

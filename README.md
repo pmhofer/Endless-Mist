@@ -1,6 +1,6 @@
 # ENDLESS MIST — Lies das zuerst
 
-**Stand:** 2026-11-20 · **Phase:** 2B fertig, 3–5 als Nächstes · **Ansatz:** A, der Mistwalker-Loop (E1) · soulslike, Ich-Perspektive, keine Zahlen (E3, E4)
+**Stand:** 2026-11-20 · **Phase:** 3–5 Entwurf (Raster v1.1, Emotionsbogen, Beats Kap. 1) · **Ansatz:** A, der Mistwalker-Loop (E1) · soulslike, Ich-Perspektive, keine Zahlen (E3, E4)
 *Kurzes Dashboard. Bei Widerspruch gilt `ENTSCHEIDUNGEN.md`, danach `02_Konzept/Endless-Mist-Konzept.md`.*
 
 ## Worum es geht
@@ -19,7 +19,6 @@ Eine namenlose Seele, die nicht tot bleiben kann, wandert durch einen endlosen N
 | `99_Archiv/` | Die nicht gewählten Ansätze B und C |
 
 ## Nächste Schritte
-**Pausiert am 2026-11-20.** Übergabe: `00_Info/HANDOFF-2026-11-20.md`.
-1. Bei „weiter“ läuft die Kette `struktur` ab `story-arc-architect` (Raster auf E7–E10 nachziehen).
-2. Danach `emotion-arc-architect` und `plot-architect` (Beats Kapitel 1).
-3. Offen: Was ist der Nebel (E5)?
+1. Raster v1.1 (`03_Outline/24-KAPITEL-RASTER.md`), Emotionsbogen (`02_Konzept/EMOTIONSBOGEN.md`) und Beats Kap. 1 (`04_Beats/Kapitel_01_Beats.md`) freigeben.
+2. Danach startet die Kette `kapitel`: Kapitel 1 schreiben (`novelos-kapitel` → Sensorik → Emotion → Dialog → Kadenz → Hook → Lektorat).
+3. Offen: Was ist der Nebel (E5)? Szenen für Akt II–III folgen.

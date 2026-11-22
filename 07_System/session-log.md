@@ -11,3 +11,7 @@
 
 ## 2026-11-20 · Pause & Handoff
 - E8–E10 übernommen, Kette struktur freigegeben, nicht begonnen (Autor: Token-Budget). Handoff: `00_Info/HANDOFF-2026-11-20.md`
+
+## 2026-11-22 · Kette struktur
+- Raster v1.1 (Heldenreise + Rebirth, Twist-Saaten für A und B), Emotionsbogen (Taubheit → Frieden ohne Zeugen), Szenen Akt I, Beats Kap. 1
+- Flow wartet: Freigabe, dann Kette kapitel

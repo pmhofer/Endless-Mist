@@ -17,9 +17,9 @@
 | 1 Setup | ✅ erledigt (2026-11-20) |
 | 2A Konzept | ✅ Story Kickoff Pass durchlaufen (2026-11-20), wartet auf Pivot und E5 |
 | 2B Figuren & Welt | ✅ Entwurf (2026-11-20): Figuren, Welt, Trope-Vertrag; 3 Rückfragen offen |
-| 3 Struktur (24 Beats) | ⏳ |
+| 3 Struktur (24 Beats) | ✅ Raster v1.1, Emotionsbogen (2026-11-22) |
 | 4 Kapitel-Outline | ⏳ |
-| 5 Beats | ⏳ |
+| 5 Beats | 🔶 Szenen Akt I, Beats Kap. 1 |
 | 6 Schreiben | ⏳ |
 | 7 Revision | ⏳ |
 | 8 Copyedit | ⏳ |
